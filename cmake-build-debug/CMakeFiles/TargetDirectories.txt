@@ -1,0 +1,3 @@
+/media/swen/D_Disk/testPrj/ffttest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/swen/D_Disk/testPrj/ffttest/cmake-build-debug/CMakeFiles/ffttest.dir
+/media/swen/D_Disk/testPrj/ffttest/cmake-build-debug/CMakeFiles/edit_cache.dir
